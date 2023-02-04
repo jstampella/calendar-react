@@ -8,3 +8,7 @@
 ```
 VITE_API_URL=
 ```
+
+# Build produccion
+
+## se debe crear un archivo .env.production con las variables de entornos
